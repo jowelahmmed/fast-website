@@ -1,0 +1,57 @@
+body {
+  margin: 0px;
+}
+h1 {
+  font-size: 40px;
+}
+.name {
+  color: darkorange;
+}
+p {
+  font-size: 20px;
+}
+.haf-width {
+  width: 40%;
+  margin-left: 4%;
+  padding-left: 4%;
+}
+.haf-width img {
+  width: 100%;
+}
+.link-bottun {
+  text-decoration: none;
+  background-image: linear-gradient(
+    35deg,
+    rgb(244, 115, 115),
+    rgb(94, 94, 242)
+  );
+  padding: 10px 10px;
+  color: aliceblue;
+  font-weight: 600;
+}
+
+.last-line {
+  box-shadow: 10px 10px 40px grey;
+  border-radius: 5px;
+  border-left: 7px solid;
+  height: 250px;
+  border-image: linear-gradient(180deg, rgb(243, 147, 147), rgb(223, 39, 18));
+  border-image-slice: 1;
+}
+
+.border-image {
+  border-image: linear-gradient(190deg, blue, pink);
+  border-image-slice: 1;
+}
+.haf {
+  display: flex;
+}
+.last {
+  padding-bottom: 100px;
+}
+.left {
+  margin-left: 24px;
+}
+p {
+  color: brown;
+}
